@@ -1,3 +1,8 @@
+Assignment submitted in group by 
+Manoj Reddy : A00258697
+Naresh Kamanaboyana :A00257027 
+Manikanta Reddy sama : A00255242
+
 package com.example.jav1001_todo;
 
 import android.content.ContentValues;
