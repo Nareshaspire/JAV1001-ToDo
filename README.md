@@ -2,7 +2,7 @@
 
 ToDo List Apllicaton.
 
-user can add and delete the task.
+user can add task by clicking on + button on the right side.
 
 added Task will be stored in database.
 
